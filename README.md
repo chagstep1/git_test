@@ -1,1 +1,1 @@
-Now this is our first git project but actually not teh first
+Actually, this is the first proper exercise assigment from Odin Project. Hello!
